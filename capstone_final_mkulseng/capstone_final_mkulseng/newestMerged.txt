@@ -1,0 +1,13 @@
+
+p#007	 62	(  NA +  62)	cool spy gadgets
+p#035	 54	(  19 +  35)	broom
+p#125	149	(  21 + 128)	toothbrush
+p#135	 80	(  73 +   7)	electric toothbrush
+p#138	101	( 101 +  NA)	gum sticks
+p#145	 61	(  36 +  25)	milk galon 1%
+p#154	 99	(  NA +  99)	ice tea peach flavor
+p#155	 24	(  24 +  NA)	chocolate milk
+p#190	 47	(  47 +  NA)	baseball hat red sox
+p#197	115	(  52 +  63)	soda - Miscellaneous flavors
+p#203	 15	(  15 +  NA)	baseball hat New York Yankees
+p#205	 88	(  88 +  NA)	baseball cards

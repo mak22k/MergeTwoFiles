@@ -1,0 +1,11 @@
+item ID#   item quantity     item description
+p#035         19             broom
+p#125         21             toothbrush
+p#135         73                    electric toothbrush
+p#138        101             gum sticks
+p#145         36             milk galon 1%
+p#155         24                chocolate milk
+p#190         47             baseball hat red sox
+p#197         52             soda - Miscellaneous flavors
+p#203         15                baseball hat New York Yankees
+p#205         88             baseball cards
