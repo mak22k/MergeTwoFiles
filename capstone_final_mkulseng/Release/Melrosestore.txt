@@ -1,0 +1,8 @@
+item ID#   item quantity     item description
+p#007         42             cool spy gadgets
+p#035         35             orzo
+p#125        12             electic saver
+p#135          7             electric toothbrush
+p#145         25             gallon 1% milk
+p#154         59             ice tea peach flavor
+p#197         63             soda - Miscellaneous flavors
